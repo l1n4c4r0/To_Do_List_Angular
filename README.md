@@ -1,4 +1,5 @@
-# Sistema de To-Do List para la Biblioteca - Frontend
+# Sistema de To Do List Frontend
+![Captura de pantalla (128)](https://github.com/l1n4c4r0/To_Do_List_Angular/assets/131785740/8abc04ef-1ff4-4ef3-a3cd-2b29b4303ae9)
 
 Bienvenido al repositorio del proyecto de la Biblioteca. En este proyecto, el objetivo es desarrollar un sistema eficiente y fácil de usar para gestionar y realizar un seguimiento de las tareas pendientes.
 
