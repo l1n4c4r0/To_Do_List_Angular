@@ -16,7 +16,7 @@ Para lograr este objetivo, utilizaremos tecnologías modernas de desarrollo web,
 1. Creación de Tareas: Los usuarios podrán crear nuevas tareas, proporcionando detalles relevantes como descripción y fecha límite.
 2. Marcado de Tareas Completadas: Los usuarios podrán marcar las tareas como completadas una vez finalizadas.
 3. Actualizaciones en Tiempo Real: Implementaremos actualizaciones en tiempo real para mantener a todos los usuarios al tanto de los cambios en las tareas.
-4. Eliminación de Tareas : Los usuarios podrán eliminar las tareas ya realizadas..
+4. Eliminación de Tareas : Los usuarios podrán eliminar las tareas ya realizadas.
 
 ## Instalación
 
